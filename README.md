@@ -34,3 +34,5 @@ Email: kaleb.franken7@gmail.com
 @@ text in purple (and bold)@@
 ```
 <a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+
+<a><img src="./goodmeme.xml"/></a>
