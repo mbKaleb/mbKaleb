@@ -17,7 +17,8 @@ Email: kaleb.franken7@gmail.com
 
   `git commit -m "small changes"`
   ```diff
-  +954 -54*   **🟩🟩🟩⬜⬜**
+  +954 
+  -54*   **🟩🟩🟩⬜⬜**
   ```
 
   *test*
