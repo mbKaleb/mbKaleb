@@ -1,7 +1,23 @@
-echo "# cbKaleb" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:cbKaleb/cbKaleb.git
-git push -u origin main
+### Hello, I'm Kaleb 👋
+
+### Today  📅
+
+- Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
+
+- Plaing with some computer vision stuff
+
+
+### Recent Projects
+
+[Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
+
+[EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch?v=GsC8MomlBk8)
+
+### Contact 📫
+
+Email: kaleb.franken7@gmail.com
+
+``` 
+  git commit -m "small changes" 
+    
+```
