@@ -2,10 +2,8 @@
 
 ### Today  📅
 
-- Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities~
-
+- Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities
 - Plaing with some computer vision stuff
-
 
 ### Recent Projects
 
@@ -17,7 +15,7 @@
 
 Email: kaleb.franken7@gmail.com
 
-``` 
-  git commit -m "small changes" 
-    
-```
+  `git commit -m "small changes"`
+  *+954 -54*   **🟩🟩🟩⬜⬜**
+
+  *test*
