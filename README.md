@@ -19,3 +19,4 @@ Email: kaleb.franken7@gmail.com
   *+954 -54*   **🟩🟩🟩⬜⬜**
 
   *test*
+<span style="color:blue">some *blue* text</span>.
