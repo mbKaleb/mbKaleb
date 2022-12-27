@@ -22,4 +22,10 @@ Email: kaleb.franken7@gmail.com
 <span style="color:blue">somen blue text</span>.
 
 
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
