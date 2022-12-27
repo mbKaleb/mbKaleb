@@ -1,3 +1,16 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
+
+
 ### Hello, I'm Kaleb 👋
 
 ### Today  📅
@@ -19,4 +32,4 @@ Email: kaleb.franken7@gmail.com
   *+954 -54*   **🟩🟩🟩⬜⬜**
 
   *test*
-<span style="color:blue">some *blue* text</span>.
+<span style="color:blue">somen blue text</span>.
