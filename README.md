@@ -15,5 +15,10 @@
 
 Email: kaleb.franken7@gmail.com  
 
+---
 
-`git commit -m "small changes"`  <a><img src="./goodmeme.svg"/></a>
+
+`git commit -m "small changes"`  
+
+
+<a><img src="./goodmeme.svg"/></a>
