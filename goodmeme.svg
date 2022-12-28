@@ -5,7 +5,8 @@
      width="100" height="50"
 >
   <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
+    <tspan fill="red">+587</tspan>
+    <tspan fill="green">-89</tspan>
+    <tspan> test </tspan>
   </text>
 </svg>
