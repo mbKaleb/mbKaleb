@@ -18,6 +18,6 @@ Email: kaleb.franken7@gmail.com
 ---
 
 
-`git commit -m "small changes && git push --force"`  
+`git commit -m "small changes" && git push --force`  
 
 <a><img src="./goodmeme.svg"/></a>
