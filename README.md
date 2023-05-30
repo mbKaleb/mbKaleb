@@ -7,7 +7,7 @@
 
 ### Recent Projects
 
-[Tron Background] | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com](https://tron-grid-deployment.vercel.app)
+[Tron Background] | [**Demo**](https://tron-grid-deployment.vercel.app)
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
