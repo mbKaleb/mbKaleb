@@ -5,7 +5,7 @@
      width="210" height="32"
 >
   <text font-family="Arial, Helvetica, sans-serif" font-size="16" x="10" y="22">
-    <tspan fill="#02c905">+587</tspan>
+    <tspan fill="#02c905">+5087</tspan>
     <tspan fill="red">-89</tspan>
     <tspan letter-spacing=".5" font-size="9" x="80" y="19" > 🟩🟩🟩🟩⬜</tspan>
   </text>
