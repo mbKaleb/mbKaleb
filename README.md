@@ -11,7 +11,7 @@
 
 [Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
 
-[EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch?v=GsC8MomlBk8)
+[EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch)
 
 ### Contact 📫
 
