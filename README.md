@@ -2,9 +2,6 @@
 
 ### Today  📅
 
-- Working with the skilled engineers @mint-ed to bring blockchain functionality to more people and communities
-- Plaing with some computer vision stuff
-
 ### Recent Projects
 
 [Tron Background](https://github.com/mbKaleb/tron-grid-deployment) | [**Demo**](https://tron-grid-deployment.vercel.app)
