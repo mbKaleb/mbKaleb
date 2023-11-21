@@ -15,7 +15,7 @@ Working on finishing up my bachelor's of computer science in cloud computing and
 
 ### Contact 📫
 
-Email: kaleb.franken7@gmail.com  
+Email: kaleb.franken@icloud.com  
 
 ---
 
