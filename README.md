@@ -2,6 +2,9 @@
 
 ### Today  📅
 
+Working on finishing up my bachelor's of computer science in cloud computing and solutions.
+
+
 ### Recent Projects
 
 [Tron Background](https://github.com/mbKaleb/tron-grid-deployment) | [**Demo**](https://tron-grid-deployment.vercel.app)
