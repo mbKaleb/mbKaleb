@@ -2,7 +2,7 @@
 
 ### Today  📅
 
-Working on finishing up my bachelor's of computer science in cloud computing and solutions.
+Working on finishing up my bachelor's of applied computer science
 
 
 ### Recent Projects
