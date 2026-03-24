@@ -9,9 +9,6 @@ Working on finishing up my bachelor's of applied computer science
 
 [Tron Background](https://github.com/mbKaleb/tron-grid-deployment) | [**Demo**](https://tron-grid-deployment.vercel.app)
 
-[Pathfinder Visualizer](https://github.com/Skywrithin/pathfinder-visualizer) | [**Demo**](https://pathfinder-visualizer-kaleb.herokuapp.com)
-
-[EtherScout](https://github.com/Skywrithin/EtherScout) | [**Demo**](https://www.youtube.com/watch)
 
 ### Contact 📫
 
