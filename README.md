@@ -10,7 +10,7 @@ https://www.kalebf.dev
 
 ### Recent Projects
 
-[Tron Background](https://github.com/mbKaleb/tron-grid-deployment) | [**Demo**](https://tron-grid-deployment.vercel.app)
+[ChatCore](https://github.com/mbKaleb/ChatCore)
 
 
 ### Contact 📫
