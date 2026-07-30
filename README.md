@@ -12,8 +12,6 @@ https://www.kalebf.dev
 
 [ChatCore](https://github.com/mbKaleb/ChatCore)
 
-[g lance](https://glance.mbkaleb.com)
-
 [cpp-codex](www.codex.mbkaleb.com)
 
 
