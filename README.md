@@ -8,9 +8,13 @@ Working on finishing up my bachelor's of applied computer science
 
 https://www.kalebf.dev
 
-### Recent Projects
+### Recent Work
 
 [ChatCore](https://github.com/mbKaleb/ChatCore)
+
+### Independent Research
+
+[Refusal Replication]()
 
 
 ### Contact 📫
