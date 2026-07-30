@@ -12,6 +12,8 @@ https://www.kalebf.dev
 
 [ChatCore](https://github.com/mbKaleb/ChatCore)
 
+[g lance](https://github.com/mbKaleb/glance)
+
 ### Independent Research
 
 [Refusal Replication]()
