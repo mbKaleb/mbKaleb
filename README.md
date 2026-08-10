@@ -15,9 +15,9 @@ https://www.kalebf.dev
 </body>
 
 
-### Independent Research
+### Research Replication
 
-[Refusal Replication]()
+[Model Refusal Oblation]()
 
 
 ### Contact 📫
