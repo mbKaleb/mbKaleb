@@ -8,12 +8,11 @@ Working on finishing up my bachelor's of applied computer science
 
 https://www.kalebf.dev
 
-### Recent Work
+### Recent Development
 
-[ChatCore](https://github.com/mbKaleb/ChatCore)
-
-[cpp-codex](www.codex.mbkaleb.com)
-
+<body>
+  <a href="https://github.com/mbKaleb/ChatCore"> ChatCore <img width="32" height="32" alt="ChatCore Icon" src="https://github.com/user-attachments/assets/9bd100ec-e262-47d9-8e30-a8d8512b6b9a" align="absmiddle" /></a>
+</body>
 
 
 ### Independent Research
