@@ -6,7 +6,7 @@ Working on finishing up my bachelor's of applied computer science
 
 ### Open-Source
 
-mbKaleb:fix-processor-architecture-enum-aarch64
+<a href="https://github.com/skelsec/minidump/pull/50">mbKaleb:fix-processor-architecture-enum-aarch64</a>
 
 
 ### Portfolio Site
