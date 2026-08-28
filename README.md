@@ -6,9 +6,11 @@ Working on finishing up my bachelor's of applied computer science
 
 ### Open-Source
 
+
+<a href="https://github.com/libcpr/cpr/pull/1318">mbKaleb:fix-malformed-sha-tag</a>
+
 <a href="https://github.com/skelsec/minidump/pull/50">mbKaleb:fix-processor-architecture-enum-aarch64</a>
-<br/>
-<br/>
+  
 <a HREF="https://github.com/fffaraz/awesome-cpp/pull/1884"> mbKaleb:fix-jpegli-link </a>
 
 ### Portfolio Site
