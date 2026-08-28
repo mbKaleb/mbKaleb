@@ -4,7 +4,7 @@ Working on finishing up my bachelor's of applied computer science
 
 
 
-### Open-Source ![Merged](https://img.shields.io/badge/Merged-8957e5?logo=git&logoColor=white)
+### Open-Source     <img src="./merged.svg" align="center">
 
 <a href="https://github.com/libcpr/cpr/pull/1318">mbKaleb:fix-malformed-sha-tag</a>
 
