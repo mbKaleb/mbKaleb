@@ -2,7 +2,7 @@
 
 Working on finishing up my bachelor's of applied computer science
 
-### Open-Source &nbsp;<img src="./merged.svg" align="center">
+### Open-Source &nbsp;<img src="./merged.svg" align="absmiddle">
 
 <a href="https://github.com/libcpr/cpr/pull/1318">mbKaleb:fix-malformed-sha-tag</a>
 
