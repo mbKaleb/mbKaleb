@@ -4,6 +4,8 @@ Working on finishing up my bachelor's of applied computer science
 
 ### Open-Source &nbsp;<img src="./merged.svg" align="absmiddle">
 
+<a href="github.com/zeek/spicy/pull/2483">mbKaleb:topic/mbKaleb/gh-2335-sub-end-offset</a> 
+
 <a href="https://github.com/libcpr/cpr/pull/1318">mbKaleb:fix-malformed-sha-tag</a>
 
 <a href="https://github.com/skelsec/minidump/pull/50">mbKaleb:fix-processor-architecture-enum-aarch64</a>
